@@ -517,12 +517,6 @@ class wcf_contact_form_stuff extends WPUF_Admin_Form{
                 </td>
             </tr>
 
-            <tr class="wpuf-same-page">
-                <th><?php _e( 'Message to show', 'wpuf' ); ?></th>
-                <td>
-                    <textarea rows="3" cols="40" name="wpuf_settings[message]"><?php echo esc_textarea( $message ); ?></textarea>
-                </td>
-            </tr>
             </tr>
 
             <tr class="wpuf-page-id">

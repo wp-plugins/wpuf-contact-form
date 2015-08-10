@@ -10,13 +10,14 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 An extension of WP User Frontend Plugin to help you make contact form easily and effectively with lots of fields provided.
 
 == Description ==
-
+Note : You must have wp user frontend plugin install to have this plugin working !
 1) Unlimited contact forms
 2) Numerous form fields
 3) Both ajax (in page) and non ajax (reload page) form process
 4) Different settings for customization
 And many more ...
 
+[youtube https://www.youtube.com/watch?v=i6E_-zl_w8E]
 == Installation ==
 
 

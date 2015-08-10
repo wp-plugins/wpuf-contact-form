@@ -171,7 +171,7 @@ class wcf_contact_form_stuff extends WPUF_Admin_Form{
         ?>
         <div class="wpuf-loading hide"></div>
 
-        <h2><?php _e( 'Profile Fields', 'wpuf' ); ?></h2>
+        <h2><?php _e( 'Contact Fields', 'wpuf' ); ?></h2>
         <div class="wcf-form-buttons">
             <button class="button" data-name="post_title" data-type="text" title="<?php _e( 'Click to add to the editor', 'wpuf' ); ?>"><?php _e( 'Message Subject', 'wpuf' ); ?></button>
             <button class="button" data-name="wcf_user_login" data-type="text"><?php _e( 'Username', 'wpuf' ); ?></button>

@@ -19,7 +19,7 @@ Note : You must have wp user frontend plugin install to have this plugin working
 4) Different settings for customization
 And many more ...
 
-[youtube https://www.youtube.com/watch?v=i6E_-zl_w8E]
+
 == Installation ==
 
 

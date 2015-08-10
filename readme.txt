@@ -11,7 +11,11 @@ An extension of WP User Frontend Plugin to help you make contact form easily and
 
 == Description ==
 
-
+1) Unlimited contact forms
+2) Numerous form fields
+3) Both ajax (in page) and non ajax (reload page) form process
+4) Different settings for customization
+And many more ...
 
 == Installation ==
 

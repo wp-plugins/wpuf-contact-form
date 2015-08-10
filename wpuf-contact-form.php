@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WPUF Contact Form
-Plugin URI: ''
+Plugin URI: https://wordpress.org/plugins/wpuf-contact-form/
 Description: Create, edit, delete, manages contact forms for users
 Author: Mithu A Quayium
 Version: 0.1

@@ -11,7 +11,6 @@ An extension of WP User Frontend Plugin to help you make contact form easily and
 
 == Description ==
 
-This is the long description.  No limit, and you can use Markdown (as well as in the following sections).
 
 
 == Installation ==

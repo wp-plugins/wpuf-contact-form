@@ -13,7 +13,7 @@ An extension of WP User Frontend Plugin to help you make contact form easily and
 
 > #### Note .
 
-> You must have [**wp user frontend plugin**] (https://wordpress.org/plugins/wp-user-frontend/) or [**wp user frontend pro**] (https://wedevs.com/products/plugins/wp-user-frontend-pro/) installed and activated to have this plugin working !
+> You must have [**wp user frontend plugin**](https://wordpress.org/plugins/wp-user-frontend/) or [**wp user frontend pro**](https://wedevs.com/products/plugins/wp-user-frontend-pro/) installed and activated to have this plugin working !
 
 
 Note : 

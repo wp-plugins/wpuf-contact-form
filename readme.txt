@@ -13,13 +13,14 @@ An extension of WP User Frontend Plugin to help you make contact form easily and
 
 Note : You must have wp user frontend plugin install to have this plugin working !
 
-1) Unlimited contact forms
+* Unlimited contact forms
 
-2) Numerous form fields
+* Numerous form fields
 
-3) Both ajax (in page) and non ajax (reload page) form process
+* Both ajax (in page) and non ajax (reload page) form process
 
-4) Different settings for customization
+* Different settings for customization
+
 And many more ...
 
 

@@ -470,7 +470,7 @@ class wcf_contact_form_stuff extends WPUF_Admin_Form{
                 <td>
                     <textarea rows="7" cols="40" name="wpuf_settings[message_format]"><?php echo esc_textarea( $message_format ); ?></textarea>
                     <p class="description">
-                        <?php _e( 'Message will be sent in this format, use shortcode like the following. For <br>', $domain = 'default' ) ?>
+                        <?php _e( 'Message and header will be sent in this format, use shortcode like the following. For <br>', $domain = 'default' ) ?>
                         <?php _e( " subject -> {subject},
                 username -> {username},<br>
                 First Name -> {firstname},<br>

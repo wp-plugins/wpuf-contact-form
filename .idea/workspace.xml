@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="263e50e1-4f3a-43d6-9771-e657e587d1aa" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\wamp\www\wp_test\wp-content\plugins\wpuf-contact-form\form-process.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact-form.php" afterPath="$PROJECT_DIR$/contact-form.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend-form.php" afterPath="$PROJECT_DIR$/frontend-form.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/wcf_frontend.js" afterPath="$PROJECT_DIR$/assets/js/wcf_frontend.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wpuf-contact-form.php" afterPath="$PROJECT_DIR$/wpuf-contact-form.php" />
     </list>
     <ignored path="wpuf-contact-form.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,59 +27,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="wpuf-contact-form.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="wpuf-contact-form.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wpuf-contact-form.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="31" selection-start="404" selection-end="404" vertical-scroll-proportion="0.0" vertical-offset="243" max-vertical-offset="816">
+            <state vertical-scroll-proportion="0.14107884" vertical-offset="0" max-vertical-offset="782">
+              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact-form.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="contact-form.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contact-form.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="175" column="12" selection-start="6801" selection-end="6801" vertical-scroll-proportion="-91.65385" vertical-offset="592" max-vertical-offset="10030">
-              <folding>
-                <marker date="1439188434974" expanded="true" signature="19402:19419" placeholder="..." />
-                <marker date="1439188434974" expanded="true" signature="19486:19626" placeholder="..." />
-                <marker date="1439188434974" expanded="true" signature="19690:19707" placeholder="..." />
-                <marker date="1439188434974" expanded="true" signature="19774:19947" placeholder="..." />
-                <marker date="1439188434974" expanded="true" signature="19837:19947" placeholder="..." />
-                <marker date="1439188434974" expanded="true" signature="20541:20576" placeholder="..." />
-                <marker date="1439188434974" expanded="true" signature="20767:20784" placeholder="..." />
-                <marker date="1439188434974" expanded="true" signature="20855:21007" placeholder="..." />
-                <marker date="1439188434974" expanded="true" signature="21082:21099" placeholder="..." />
-                <marker date="1439188434974" expanded="true" signature="21159:21301" placeholder="..." />
-                <marker date="1439188434974" expanded="true" signature="21218:21301" placeholder="..." />
-                <marker date="1439188434974" expanded="true" signature="21713:21730" placeholder="..." />
-                <marker date="1439188434974" expanded="true" signature="21796:21923" placeholder="..." />
-                <marker date="1439188434974" expanded="true" signature="21986:22003" placeholder="..." />
-                <marker date="1439188434974" expanded="true" signature="22082:22226" placeholder="..." />
-                <marker date="1439188434974" expanded="true" signature="22262:22279" placeholder="..." />
-                <marker date="1439188434974" expanded="true" signature="22350:22567" placeholder="..." />
-                <marker date="1439188434974" expanded="true" signature="22532:22567" placeholder="..." />
-                <marker date="1439188434974" expanded="true" signature="22748:22765" placeholder="..." />
-                <marker date="1439188434974" expanded="true" signature="22836:23053" placeholder="..." />
-                <marker date="1439188434974" expanded="true" signature="23018:23053" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="frontend-form.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/frontend-form.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="108" column="13" selection-start="4326" selection-end="4326" vertical-scroll-proportion="0.6439791" vertical-offset="1399" max-vertical-offset="2567">
+            <state vertical-scroll-proportion="0.0" vertical-offset="3400" max-vertical-offset="10353">
+              <caret line="200" column="12" selection-start-line="200" selection-start-column="12" selection-end-line="200" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wcf_frontend.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="frontend-form.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend-form.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-14.192307" vertical-offset="1399" max-vertical-offset="2567">
+              <caret line="108" column="13" selection-start-line="108" selection-start-column="13" selection-end-line="108" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wcf_frontend.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/js/wcf_frontend.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="72" selection-start="808" selection-end="808" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="4539">
+            <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="4539">
+              <caret line="21" column="72" selection-start-line="21" selection-start-column="72" selection-end-line="21" selection-end-column="72" />
               <folding />
             </state>
           </provider>
@@ -101,10 +81,10 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/../wp-user-frontend/wpuf.php" />
-        <option value="$PROJECT_DIR$/wpuf-contact-form.php" />
         <option value="$PROJECT_DIR$/contact-form.php" />
         <option value="$PROJECT_DIR$/assets/js/wcf_frontend.js" />
         <option value="$PROJECT_DIR$/frontend-form.php" />
+        <option value="$PROJECT_DIR$/wpuf-contact-form.php" />
       </list>
     </option>
   </component>
@@ -112,8 +92,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="width" value="1616" />
+    <option name="height" value="886" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -129,7 +109,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -150,34 +130,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wpuf-contact-form" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wpuf-contact-form" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wpuf-contact-form" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wpuf-contact-form" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -194,12 +146,13 @@
     <task active="true" id="Default" summary="Default task">
       <changelist id="263e50e1-4f3a-43d6-9771-e657e587d1aa" name="Default" comment="" />
       <created>1439182050414</created>
+      <option name="number" value="Default" />
       <updated>1439182050414</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="886" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -207,24 +160,27 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.120625" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13469985" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.134375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
       <collection />
     </option>
   </component>
@@ -238,121 +194,101 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
+    <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/wpuf-contact-form.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="31" selection-start="404" selection-end="404" vertical-scroll-proportion="0.0" vertical-offset="243" max-vertical-offset="816">
+        <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="663">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/contact-form.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="175" column="12" selection-start="6801" selection-end="6801" vertical-scroll-proportion="0.0" vertical-offset="2887" max-vertical-offset="10030">
-          <folding>
-            <marker date="1439188434974" expanded="true" signature="19402:19419" placeholder="..." />
-            <marker date="1439188434974" expanded="true" signature="19486:19626" placeholder="..." />
-            <marker date="1439188434974" expanded="true" signature="19690:19707" placeholder="..." />
-            <marker date="1439188434974" expanded="true" signature="19774:19947" placeholder="..." />
-            <marker date="1439188434974" expanded="true" signature="19837:19947" placeholder="..." />
-            <marker date="1439188434974" expanded="true" signature="20541:20576" placeholder="..." />
-            <marker date="1439188434974" expanded="true" signature="20767:20784" placeholder="..." />
-            <marker date="1439188434974" expanded="true" signature="20855:21007" placeholder="..." />
-            <marker date="1439188434974" expanded="true" signature="21082:21099" placeholder="..." />
-            <marker date="1439188434974" expanded="true" signature="21159:21301" placeholder="..." />
-            <marker date="1439188434974" expanded="true" signature="21218:21301" placeholder="..." />
-            <marker date="1439188434974" expanded="true" signature="21713:21730" placeholder="..." />
-            <marker date="1439188434974" expanded="true" signature="21796:21923" placeholder="..." />
-            <marker date="1439188434974" expanded="true" signature="21986:22003" placeholder="..." />
-            <marker date="1439188434974" expanded="true" signature="22082:22226" placeholder="..." />
-            <marker date="1439188434974" expanded="true" signature="22262:22279" placeholder="..." />
-            <marker date="1439188434974" expanded="true" signature="22350:22567" placeholder="..." />
-            <marker date="1439188434974" expanded="true" signature="22532:22567" placeholder="..." />
-            <marker date="1439188434974" expanded="true" signature="22748:22765" placeholder="..." />
-            <marker date="1439188434974" expanded="true" signature="22836:23053" placeholder="..." />
-            <marker date="1439188434974" expanded="true" signature="23018:23053" placeholder="..." />
-          </folding>
+        <state vertical-scroll-proportion="0.0" vertical-offset="2975" max-vertical-offset="9928">
+          <caret line="175" column="12" selection-start-line="175" selection-start-column="12" selection-end-line="175" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/frontend-form.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="103" column="30" selection-start="4206" selection-end="4206" vertical-scroll-proportion="0.0" vertical-offset="1751" max-vertical-offset="2567">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2567">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/wcf_frontend.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="31" selection-start="840" selection-end="840" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="4556">
+        <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="4539">
+          <caret line="21" column="72" selection-start-line="21" selection-start-column="72" selection-end-line="21" selection-end-column="72" />
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../wp-user-frontend-pro/wpuf.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="3.4423077" vertical-offset="179" max-vertical-offset="6698">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../wp-user-frontend/wpuf.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.047531992" vertical-offset="26" max-vertical-offset="6902" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-11/frontend-form.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="104" column="60" selection-start="4289" selection-end="4289" vertical-scroll-proportion="0.36300173" vertical-offset="1492" max-vertical-offset="2567" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wpuf-contact-form.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="31" selection-start="404" selection-end="404" vertical-scroll-proportion="0.0" vertical-offset="243" max-vertical-offset="816">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/wcf_frontend.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="72" selection-start="808" selection-end="808" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="4539">
+        <state vertical-scroll-proportion="0.0" vertical-offset="243" max-vertical-offset="816">
+          <caret line="19" column="31" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/contact-form.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="175" column="12" selection-start="6801" selection-end="6801" vertical-scroll-proportion="-91.65385" vertical-offset="592" max-vertical-offset="10030">
-          <folding>
-            <marker date="1439188434974" expanded="true" signature="19402:19419" placeholder="..." />
-            <marker date="1439188434974" expanded="true" signature="19486:19626" placeholder="..." />
-            <marker date="1439188434974" expanded="true" signature="19690:19707" placeholder="..." />
-            <marker date="1439188434974" expanded="true" signature="19774:19947" placeholder="..." />
-            <marker date="1439188434974" expanded="true" signature="19837:19947" placeholder="..." />
-            <marker date="1439188434974" expanded="true" signature="20541:20576" placeholder="..." />
-            <marker date="1439188434974" expanded="true" signature="20767:20784" placeholder="..." />
-            <marker date="1439188434974" expanded="true" signature="20855:21007" placeholder="..." />
-            <marker date="1439188434974" expanded="true" signature="21082:21099" placeholder="..." />
-            <marker date="1439188434974" expanded="true" signature="21159:21301" placeholder="..." />
-            <marker date="1439188434974" expanded="true" signature="21218:21301" placeholder="..." />
-            <marker date="1439188434974" expanded="true" signature="21713:21730" placeholder="..." />
-            <marker date="1439188434974" expanded="true" signature="21796:21923" placeholder="..." />
-            <marker date="1439188434974" expanded="true" signature="21986:22003" placeholder="..." />
-            <marker date="1439188434974" expanded="true" signature="22082:22226" placeholder="..." />
-            <marker date="1439188434974" expanded="true" signature="22262:22279" placeholder="..." />
-            <marker date="1439188434974" expanded="true" signature="22350:22567" placeholder="..." />
-            <marker date="1439188434974" expanded="true" signature="22532:22567" placeholder="..." />
-            <marker date="1439188434974" expanded="true" signature="22748:22765" placeholder="..." />
-            <marker date="1439188434974" expanded="true" signature="22836:23053" placeholder="..." />
-            <marker date="1439188434974" expanded="true" signature="23018:23053" placeholder="..." />
-          </folding>
+        <state vertical-scroll-proportion="0.0" vertical-offset="2887" max-vertical-offset="10030">
+          <caret line="175" column="12" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/frontend-form.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="108" column="13" selection-start="4326" selection-end="4326" vertical-scroll-proportion="0.6439791" vertical-offset="1399" max-vertical-offset="2567">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1751" max-vertical-offset="2567">
+          <caret line="103" column="30" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/wcf_frontend.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="4556">
+          <caret line="22" column="31" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/wcf_frontend.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="4539">
+          <caret line="21" column="72" selection-start-line="21" selection-start-column="72" selection-end-line="21" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact-form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3400" max-vertical-offset="10353">
+          <caret line="200" column="12" selection-start-line="200" selection-start-column="12" selection-end-line="200" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.192307" vertical-offset="1399" max-vertical-offset="2567">
+          <caret line="108" column="13" selection-start-line="108" selection-start-column="13" selection-end-line="108" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wpuf-contact-form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14107884" vertical-offset="0" max-vertical-offset="782">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
           <folding />
         </state>
       </provider>

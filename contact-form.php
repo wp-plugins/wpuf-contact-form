@@ -4,6 +4,7 @@ class wcf_contact_form_stuff extends WPUF_Admin_Form{
 
     function __construct(){
 
+        add_action( 'admin_notices', array( $this, 'render_admin_notice' ) );
         add_action( 'init', array( $this, 'register_contact_form' ) );
 
         //add to admin wpuf menu
@@ -22,6 +23,19 @@ class wcf_contact_form_stuff extends WPUF_Admin_Form{
         //hook to render saved fields
         add_action( 'wcf_edit_contact_form_area_profile', array( $this, 'wcf_edit_form_area_profile_runner' ) );
 
+    }
+
+    function render_admin_notice(){
+        global $pagenow;
+        if( $pagenow == 'post.php' || $pagenow == 'edit.php' ){
+            if( get_post_type() == 'wcf_contact_form' ){
+                ?>
+                <div class="updated">
+                    <p><?php _e( 'Seems Confusing ? Let\'s See the <a href="https://www.youtube.com/watch?v=dfLtfZjaZRs" target="_blank">Quick Demo</a> on How to You It !', 'my-text-domain' ); ?></p>
+                </div>
+            <?php
+            }
+        }
     }
 
     function register_contact_form(){
@@ -76,6 +90,7 @@ class wcf_contact_form_stuff extends WPUF_Admin_Form{
 
         add_meta_box( 'wpuf-contact-form-metabox-editor', __( 'Form Editor', 'wcf' ), array($this, 'metabox_wcf_contact_form'), 'wcf_contact_form', 'normal', 'high' );
         add_meta_box( 'wpuf-contact-form-metabox-fields', __( 'Form Elements', 'wcf' ), array($this, 'form_elements_profile'), 'wcf_contact_form', 'side', 'core' );
+        add_meta_box( 'wpuf-contact-form-shortcode', __( 'Shortcode', 'wcf' ), array($this, 'render_shortcode_section'), 'wcf_contact_form', 'side', 'core' );
 
         //add_meta_box( 'wpuf-metabox-fields-shortcode', __( 'Shortcode', 'wpuf' ), array($this, 'form_elements_shortcode'), 'wcf_contact_form', 'side', 'core' );
     }
@@ -117,6 +132,16 @@ class wcf_contact_form_stuff extends WPUF_Admin_Form{
         <input type="hidden" name="wpuf_form_editor" id="wpuf_form_editor" value="<?php echo wp_create_nonce( plugin_basename( __FILE__ ) ); ?>" />
         <?php
         do_action( 'wcf_edit_contact_form_area_profile' );
+    }
+
+    /**
+     * shortcode section
+     */
+    function render_shortcode_section( $post ){
+        _e( 'Copy and insert this shortcode to a page:', 'wcf' );
+        ?>
+        <input type="text" readonly value='[wpuf_contact_form id="<?php echo $post->ID;?>"]' style="width:100%" />
+        <?php
     }
 
     /**

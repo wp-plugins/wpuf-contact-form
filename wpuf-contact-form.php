@@ -18,8 +18,13 @@ class wpuf_contact_form{
 
     function __construct(){
         $this->include_files();
+        add_filter( 'plugin_action_links_' . plugin_basename(__FILE__), array( $this, 'wcf_plugin_action_links' ) );
     }
 
+    function wcf_plugin_action_links( $links ){
+        $links[] = '<a href="'. get_admin_url(null, 'edit.php?post_type=wcf_contact_form') .'">Go to Contact Form Page</a>';
+        return $links;
+    }
 
 
     function include_files(){
@@ -28,12 +33,6 @@ class wpuf_contact_form{
         }
         require_once dirname( __FILE__ ) . '/frontend-form.php';
         require_once dirname( __FILE__ ) . '/contact-form.php';
-    }
-
-    function admin_contact_form_menu(){
-        $capability = wpuf_admin_role();
-
-        add_submenu_page( 'wpuf-admin-opt', __( 'Contact Form', 'wcf' ), __( 'Contact Form', 'wcf' ), $capability, 'wpuf_contact_form', array($this, 'admin_coupon_page' ) );
     }
 
 

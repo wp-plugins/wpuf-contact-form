@@ -25,6 +25,9 @@ Note :
 
 And many more ...
 
+
+* Quick Demo On How to Use This Plugin !
+
 [youtube https://www.youtube.com/watch?v=dfLtfZjaZRs]
 
 
